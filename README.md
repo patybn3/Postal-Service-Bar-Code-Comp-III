@@ -1,15 +1,21 @@
- Author: <Dr. Sirong Lin - Main function>
- Co-Author: <Patricia Antlitz - Class and methods>
- Date: <02/10/2023 - Version 1>
- Date: <02/14/2023 - Version 2>
- Purpose: <Convert a set of binary numbers into a decimal bar code and vice versa>
+ Author: Dr. Sirong Lin - Main function
+
+ Co-Author: Patricia Antlitz - Class and methods
+
+ Date: 02/10/2023 - Version 1
+
+ Date: 02/14/2023 - Version 2
+
+ Purpose: Convert a set of binary numbers into a decimal bar code and vice versa.
+
  Sources of Help: <substring: https://www.udacity.com/blog/2021/05/our-guide-to-cpp-substrings.html#:~:text=What%20Is%20a%20Substring%20in,string%20from%20within%20a%20string.
  string stream: https://www.geeksforgeeks.org/stringstream-c-applications/
  string index: https://www.w3schools.com/cpp/cpp_strings_access.asp
  I took a look at this code, and used it as an inspiration. I took the binary values for each decimal number (switch case) from this code: https://github.com/proshan/Absolute-Cpp-Solutions/blob/master/Chapter%207/Programming%20Projects/9.cpp>
+
  Time Spent: <unknown>
- ***/
-/*
+ 
+
  Computing III -- COMP.2010 Honor Statement
  The practice of good ethical behavior is essential for maintaining
  good order in the classroom, providing an enriching learning
@@ -19,9 +25,11 @@
  strictly avoid academic dishonesty and adhere to the Academic
  Integrity policy as outlined in the course catalog. Violations will
  be dealt with as outlined therein.
+
  All programming assignments in this class are to be done by the
  student alone. No outside help is permitted except the instructor and
  approved tutors.
+ 
  I certify that the work submitted with this assignment is mine and was
  generated in a manner consistent with this document, the course
  academic policy on the course website on Blackboard, and the UMass
